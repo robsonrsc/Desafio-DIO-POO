@@ -9,6 +9,7 @@ public class main {
         Mentoria mentoria = new Mentoria();
 
         System.out.println("\n\n");
+
         curso.setTitulo("Curso Java");
         curso.setDescricao("Conceitos basicos de Java");
         curso.setCargahoraria(5);
